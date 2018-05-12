@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '4751'
     url: http://www.gutenberg.org/2009/agents/4751
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24569#A-Treasury-of-Eskimo-Tales
 gutenberg_bookshelf: Folklore
 gutenberg_issued: '2008-02-11'
 gutenberg_type: Text
